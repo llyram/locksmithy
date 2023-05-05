@@ -60,7 +60,7 @@ locksmith -l 20 -nus
 
 ## License
 
-Locksmith is licensed under the [MIT License](https://github.com/yourusername/locksmithy/blob/master/LICENSE).
+Locksmith is licensed under the [MIT License](https://github.com/llyram/locksmithy/blob/master/LICENSE).
 
 ## Contributing
 

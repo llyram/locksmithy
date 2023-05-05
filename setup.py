@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="locksmith",
+    name="locksmithy",
     version="0.1.0",
     author="Maryll Castelino",
     author_email="maryllcastelino@gmail.com",
     description="A simple password generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/llyram/locksmith",
+    url="https://github.com/llyram/locksmithy",
     packages=setuptools.find_packages(),
     entry_points={
         "console_scripts": [

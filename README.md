@@ -1,6 +1,6 @@
 Sure, here is a basic README file template for the Locksmith password generator project:
 
-# Locksmith Password Generator
+# Locksmithy Password Generator
 
 Locksmith is a simple password generator tool that generates strong, random passwords with various options for customization.
 
@@ -9,13 +9,13 @@ Locksmith is a simple password generator tool that generates strong, random pass
 To install Locksmith, you can use `pip`:
 
 ```
-pip install locksmith
+pip install locksmithy
 ```
 
 Alternatively, you can clone the repository and install it manually:
 
 ```
-git clone https://github.com/yourusername/locksmith.git
+git clone https://github.com/yourusername/locksmithy.git
 cd locksmith
 pip install .
 ```
@@ -60,8 +60,8 @@ locksmith -l 20 -nus
 
 ## License
 
-Locksmith is licensed under the [MIT License](https://github.com/yourusername/locksmith/blob/master/LICENSE).
+Locksmith is licensed under the [MIT License](https://github.com/yourusername/locksmithy/blob/master/LICENSE).
 
 ## Contributing
 
-If you would like to contribute to Locksmith, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/yourusername/locksmith).
+If you would like to contribute to Locksmith, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/yourusername/locksmithy).
